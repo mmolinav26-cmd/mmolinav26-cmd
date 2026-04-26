@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Manfredy Molina
 
-<!--
-**mmolinav26-cmd/mmolinav26-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduado de Ingeniería en Sistemas Informaticos con maestría en Diseño Gráfico  
+🚀 Me encanta la tecnología, el desarrollo y la creatividad digital e impresa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Estoy enfocado en el área de diseño gráfico y tecnología. Me interesa aprender desarrollo de software, herramientas digitales y mejorar mis habilidades en programación. Me apasiona crear proyectos que mezclen creatividad y tecnología.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- Python 🐍
+- Git & GitHub 🌐
+- Adobe Illustrator 🎨
+- Adobe Photoshop 🎨
+- Adobe inDesign 🎨
+- Adobe Premier Pro 🎨
+- Adobe After Effect 🎨
+- Markdown ✍️
+
+## 📬 Contacto
+
+📧 Correo: mmolinav26@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/manfredy-alberto-molina-villegas-b80a09228/
+
+---
+
+✨ Gracias por visitar mi perfil
