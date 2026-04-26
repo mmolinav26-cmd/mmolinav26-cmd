@@ -27,6 +27,7 @@ Estoy enfocado en el área de diseño gráfico y tecnología. Me interesa aprend
 
 ---
 ## 🎨 Proyecto Destacado
+
 🚀 Proyecto Destacado
 🏢 Jandres Corporation – Desarrollo de Marca
 Proyecto enfocado en la creación de una presencia digital completa, integrando diseño gráfico, redes sociales y sitio web.
