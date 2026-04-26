@@ -1,4 +1,5 @@
-<img width="1012" height="317" alt="image" src="https://github.com/user-attachments/assets/f4304096-939a-44a2-8e50-62dbd61b3981" />
+<img width="1920" height="534" alt="BannerPerfilGitHub" src="https://github.com/user-attachments/assets/b5ffd93e-d1b7-4527-8259-ca75b71fa538" />
+
 
 # 👋 Hola, soy Manfredy Molina
 
