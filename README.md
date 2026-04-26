@@ -1,3 +1,5 @@
+<img width="1012" height="317" alt="image" src="https://github.com/user-attachments/assets/f4304096-939a-44a2-8e50-62dbd61b3981" />
+
 # 👋 Hola, soy Manfredy Molina
 
 🎓 Graduado de Ingeniería en Sistemas Informaticos con maestría en Diseño Gráfico  
