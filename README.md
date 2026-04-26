@@ -25,8 +25,17 @@ Estoy enfocado en el área de diseño gráfico y tecnología. Me interesa aprend
 - Adobe After Effect 🎨
 - Markdown ✍️
 
-## 📬 Contacto
+---
+## 🎨 Proyecto Destacado
+🚀 Proyecto Destacado
+🏢 Jandres Corporation – Desarrollo de Marca
+Proyecto enfocado en la creación de una presencia digital completa, integrando diseño gráfico, redes sociales y sitio web.
+📌 Descripción
+🎨 Identidad visual (logotipo, colores y tipografía)
+📱 Contenido para redes sociales (https://www.facebook.com/jandrescorporation y https://www.instagram.com/jandrescorporation/)
+🌐 Sitio web (https://jandrescorporation.com)
 
+## 📬 Contacto
 📧 Correo: mmolinav26@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/manfredy-alberto-molina-villegas-b80a09228/
 
